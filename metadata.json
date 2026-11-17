@@ -1,0 +1,8 @@
+{
+  "name": "都市汽車疊疊樂",
+  "description": "清爽都市卡通風 2D 汽車疊疊樂手機遊戲，點擊吊臂精準疊高車塔、俐落裁切多餘車體並挑戰完美連擊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
